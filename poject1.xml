@@ -1,0 +1,16 @@
+<?xml-model href="" type="application/xml-dtd"?>
+<niet>
+    <department>
+        <cse> 
+            <subject>
+                <s1> maths </s1>
+                <s2> english</s2>
+            </subject>
+            <emerging> 
+                <mechanical>
+
+                </mechanical>
+            </emerging>
+        </cse>
+    </department>
+</niet>
